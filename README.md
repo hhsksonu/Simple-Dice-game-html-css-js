@@ -1,11 +1,11 @@
-# 🎲 Dicee Game – JavaScript Mini Project
+# Dicee Game – JavaScript Mini Project
 
 A simple and fun dice-rolling game made using **HTML**, **CSS**, and **JavaScript**.  
 Every time you refresh the page, the game randomly rolls two dice and declares the winner.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Random dice roll using JavaScript  
 - Dynamic image update using DOM manipulation  
@@ -17,7 +17,7 @@ Every time you refresh the page, the game randomly rolls two dice and declares t
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - JavaScript generates two random numbers (1–6)
 - Each number maps to a dice image
@@ -26,7 +26,7 @@ Every time you refresh the page, the game randomly rolls two dice and declares t
 
 ---
 
-## 🖥️ Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3**

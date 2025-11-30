@@ -1,41 +1,39 @@
-# Dating Website for Dogs (HTML, CSS, Bootstrap, JavaScript)
+# 🎲 Dicee Game – JavaScript Mini Project
 
-This is a simple front-end web project built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.  
-The website demonstrates responsive layout design, custom styling, and basic interactivity for beginners learning front-end development.
+A simple and fun dice-rolling game made using **HTML**, **CSS**, and **JavaScript**.  
+Every time you refresh the page, the game randomly rolls two dice and declares the winner.
 
-## Features
-- Responsive UI built with Bootstrap  
-- Custom CSS styling for better visuals  
-- Basic JavaScript functionality  
-- Organized and beginner-friendly code structure  
-- Clean landing page layout  
+---
 
-## Technologies Used
-- HTML  
-- CSS  
-- Bootstrap 5  
-- JavaScript  
+## 🚀 Features
 
-## Project Structure
-```
-/project-folder
-│── index.html
-│── style.css
-│── script.js
-│── /images
-```
+- Random dice roll using JavaScript  
+- Dynamic image update using DOM manipulation  
+- Clean UI using HTML + CSS  
+- Automatically announces:
+  - **Player 1 Wins**
+  - **Player 2 Wins**
+  - **Draw**
 
-## How to Run the Project
-1. Download or clone this repository  
-2. Open **index.html** in your browser  
-3. Ensure **style.css** and **script.js** are in the same folder  
-4. Bootstrap is loaded through CDN  
+---
 
-## Future Improvements
-- Add more interactive JavaScript features  
-- Add animations or transitions  
-- Add more pages and navigation elements  
-- Improve responsiveness for smaller devices  
+## 🧠 How It Works
+
+- JavaScript generates two random numbers (1–6)
+- Each number maps to a dice image
+- The images update automatically in the DOM
+- Winner text is shown at the top (inside `<h1>`)
+
+---
+
+## 🖥️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+
+---
+
 
 ## Built By
 ## Contact Me
